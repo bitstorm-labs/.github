@@ -1,3 +1,5 @@
+<p align="center"><img src="bitstorm-lockup.png" alt="Bitstorm" width="380" /></p>
+
 # Bitstorm Labs
 
 Self-hosted media apps, built to feel first-party.

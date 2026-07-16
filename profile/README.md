@@ -1,4 +1,4 @@
-<p align="center"><img src="bitstorm-lockup.png" alt="Bitstorm" width="380" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/bitstorm-labs/.github/main/profile/bitstorm-lockup.png" alt="Bitstorm" width="380" /></p>
 
 # Bitstorm Labs
 
@@ -6,7 +6,7 @@ Self-hosted media apps, built to feel first-party.
 
 ## Projects
 
-<img src="sashimi-logo.png" alt="Sashimi" width="90" align="left" />
+<img src="https://raw.githubusercontent.com/bitstorm-labs/.github/main/profile/sashimi-logo.png" alt="Sashimi" width="90" align="left" />
 
 ### Sashimi — Jellyfin clients
 

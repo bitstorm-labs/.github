@@ -22,7 +22,7 @@ Sashimi is a Jellyfin client for the living room and the pocket.
 
 ### Jellyfin plugins
 
-Server add-ons that make Sashimi better. They also work without Sashimi.
+Server add-ons that make Sashimi better.
 
 | Plugin | What it does |
 |---|---|

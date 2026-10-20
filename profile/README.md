@@ -27,5 +27,5 @@ Server add-ons that make Sashimi better.
 | Plugin | What it does |
 |---|---|
 | [Continue Watching](https://github.com/bitstorm-labs/jellyfin-plugin-continue-watching) | One Continue Watching row, merged and ranked on the server, so every device shows the same thing. |
-| Channels | 24/7 virtual TV channels and a guide built from your own library. Not public yet. |
+| [Channels](https://github.com/bitstorm-labs/jellyfin-plugin-channels) | 24/7 virtual TV channels and a guide built from your own library. |
 | [Theme Songs](https://github.com/bitstorm-labs/jellyfin-theme-songs) | Downloads a `theme.mp3` for each TV series so clients can play it. |

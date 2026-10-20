@@ -29,3 +29,7 @@ Server add-ons that make Sashimi better.
 | [Continue Watching](https://github.com/bitstorm-labs/jellyfin-plugin-continue-watching) | One Continue Watching row, merged and ranked on the server, so every device shows the same thing. |
 | [Channels](https://github.com/bitstorm-labs/jellyfin-plugin-channels) | 24/7 virtual TV channels and a guide built from your own library. |
 | [Theme Songs](https://github.com/bitstorm-labs/jellyfin-theme-songs) | Downloads a `theme.mp3` for each TV series so clients can play it. |
+
+---
+
+Sashimi works with [Jellyfin](https://jellyfin.org/), [Intro Skipper](https://github.com/intro-skipper/intro-skipper) and [Trailarr](https://github.com/nandyalu/trailarr), which are separate projects by other people under their own licenses. Bitstorm Labs is not affiliated with or endorsed by them. Credits are in each repository README.

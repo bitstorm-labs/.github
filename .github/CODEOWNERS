@@ -1,0 +1,10 @@
+# Everything in this repository is org-wide: the profile README every visitor
+# sees, and the default community health files (SECURITY.md and friends) that
+# every bitstorm-labs repo without its own copy inherits. Changes need a
+# review from a code owner before they merge into main (the "main: reviews and
+# checks" ruleset requires it).
+#
+# Only org admins (and Dependabot) can push branches to this repository, so
+# contributors open pull requests from a fork.
+
+*                        @mondominator
